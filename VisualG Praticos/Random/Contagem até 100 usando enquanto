@@ -1,4 +1,4 @@
-algoritmo "ex4"
+algoritmo "contagem até 100 usando enquanto"
 var
 
    n1 : inteiro
@@ -11,5 +11,5 @@ inicio
       n1 :=  n1 + 1
 
    fimenquanto
-         escreva("o total � 100")
+         escreva("o total é 100")
 fimalgoritmo
