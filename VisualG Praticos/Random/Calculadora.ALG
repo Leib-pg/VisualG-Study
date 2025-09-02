@@ -1,4 +1,4 @@
-algoritmo "atividade 2"
+algoritmo "Calculadora"
 
 
 var
